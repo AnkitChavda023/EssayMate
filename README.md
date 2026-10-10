@@ -78,12 +78,12 @@ To download and use this code, the minimum requirements are:
 Clone the project by typing the following command in your Terminal/CommandPrompt
 
 ```
-git clone https://github.com/AnkitChavda023/Automated-Essay-Scoring-System.git
+git clone https://github.com/AnkitChavda023/EssayMate.git
 ```
 Navigate to the WriteRight folder
 
 ```
-cd Automated-Essay-Scoring-System
+cd EssayMate
 ```
 
 ### Usage
